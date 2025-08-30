@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d43ee45-c8a4-47f9-81b4-9c378dbbfd54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yotsume/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yotsume/Notes/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yotsume/Notes/TemporaryNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yotsume/Notes/TextNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yotsume/Notes/TodoNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yotsume/Repository/NoteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yotsume/Starter/StarterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/yotsume/AppTest.java" afterDir="false" />
+    <list default="true" id="1d43ee45-c8a4-47f9-81b4-9c378dbbfd54" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,11 +80,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756486191732</updated>
-      <workItem from="1756486192709" duration="656000" />
+      <workItem from="1756486192709" duration="2802000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1756487041672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756487041672</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1756487086406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756487086406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <option name="closed" value="true" />
+      <created>1756487099122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756487099122</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
